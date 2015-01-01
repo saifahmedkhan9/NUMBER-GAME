@@ -7,7 +7,7 @@ Lets Play..!
 
  ![snapshot](/image/num_game.JPG)
  
-* Menu Bar :
+#### **Menu Bar :**
  - You can restart the game Anytime by :
   
  - [x] Using 'CTRL+R' Shortcut key. OR
