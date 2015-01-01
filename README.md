@@ -3,7 +3,7 @@ NUMBER-GAME
 
 Lets Play..!
 --------------
-* **UI Based**
+#### **UI Based**
 
  ![snapshot](/image/num_game.JPG)
  
